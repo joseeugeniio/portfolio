@@ -10,4 +10,4 @@ yarn dev
 pnpm dev
 ```
 
-Abra um dos endereços [http://localhost:3000](http://localhost:3000) pronto, você já pode visualizar.
+Abra no endereço [http://localhost:3000](http://localhost:3000) pronto, você já pode visualizar.
