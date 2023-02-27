@@ -1,11 +1,3 @@
-<div align="center>
-    <h2>Portfólio Website - versão 0.1</h2>
-    <br/>
-    <h3>
-        <a href="https://joseeugenio.com" target="_blank">joseeugenio.com</a>
-    </h3>
-</div>
-
 ## Saiba como iniciar o Projeto
 
 Primeiro, inicie o servidor local:
