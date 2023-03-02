@@ -4,11 +4,11 @@ Em breve uma representação completa do portfólio ...
 
 ## Linguagens usadas no projoeto
 
-- HTML
-- CSS
-- JAVASCRIPT
-- TYPESCRIPT
-- TAILWINDCSS
+- Html
+- Css
+- JavaScript
+- TypeScript
+- TailWindCss
 
 ## Plataformas
 
@@ -19,7 +19,7 @@ Em breve uma representação completa do portfólio ...
 
 ## Sobre o projeto
 
-O Projeto consiste em ter um funcionamento agradável para o usuário, sendo assim ele deve ter uma função de temas Dark e Light (Claro e Escuro), ele deve ter illustrações de alguns sites gratuitos, uma logo, informações sobre projetos já criados, informações sobre o meu trabalho e também, uma aba para quem quer entrar em contato comigo para algum trabalho que queira realizar.
+O Projeto consiste em ter um funcionamento agradável para o usuário, sendo assim ele deve ter uma função de temas Dark e Light (Claro e Escuro), ele deve ter illustrações de alguns sites gratuitos, uma logo, informações sobre projetos já criados, informações sobre o meu trabalho, e também, uma aba para quem quer entrar em contato comigo para algum trabalho que queira realizar.
 
 ## Como iniciar o projeto ?
 
