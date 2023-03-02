@@ -56,3 +56,7 @@ pnpm dev
 
 ```
 O Projeto abrirá no seu localhost sendo as portas <code>127.0.0.0:3000</code> ou <code>localhost:3000</code>
+
+## Licença
+
+Este projeto é distribuido sobre a Licença MIT.
