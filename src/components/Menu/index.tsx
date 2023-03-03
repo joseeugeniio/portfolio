@@ -7,13 +7,13 @@ export default function Menu() {
           <br />
           Eugênio
         </h1>
-        <p className="text-center font-bold lg:text-6xl md:text-5xl text-xl text-stone-500">
+        <p className="text-center font-semibold lg:text-6xl md:text-5xl text-xl text-stone-500">
           Desenvolvedor Front End
         </p>
         <div className="flex flex-row space-x-5">
           <a href="https://github.com/joseeugeniio" target="_blank">
             <svg
-              className="transition ease-in-out delay-75 hover:scale-110 duration-75s hover:fill-stone-300 fill-stone-50"
+              className="transition ease-in-out delay-75 hover:scale-105 duration-75s hover:fill-stone-300 fill-stone-50"
               xmlns="http://www.w3.org/2000/svg"
               width="48"
               height="48"
@@ -24,7 +24,7 @@ export default function Menu() {
           </a>
           <a href="https://instagram.com/joseeuggenio" target="_blank">
             <svg
-              className="transition ease-in-out delay-75 hover:scale-110 duration-75s hover:fill-stone-300 fill-stone-50"
+              className="transition ease-in-out delay-75 hover:scale-105 duration-75s hover:fill-stone-300 fill-stone-50"
               xmlns="http://www.w3.org/2000/svg"
               width="48"
               height="48"
@@ -35,7 +35,7 @@ export default function Menu() {
           </a>
           <a href="https://linkedin.com/in/joseeugeniio" target="_blank">
             <svg
-              className="transition ease-in-out delay-75 hover:scale-110 duration-75s hover:fill-stone-300 fill-stone-50"
+              className="transition ease-in-out delay-75 hover:scale-105 duration-75s hover:fill-stone-300 fill-stone-50"
               xmlns="http://www.w3.org/2000/svg"
               width="48"
               height="48"
