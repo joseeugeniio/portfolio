@@ -1,4 +1,4 @@
-<h2 align="center"> Portfólio v0.1<br/> <a href="https://joseeugenio.com" target="_blank">joseeugenio.com</a></h2>
+<h2 align="center"> Portfólio v0.1<br/> <a href="https://joseeugenio.com" target="_blank">joseeugenio.com</a></h2><br/>
 
 Em breve uma representação completa do portfólio ...
 
