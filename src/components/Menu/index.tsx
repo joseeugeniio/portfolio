@@ -1,19 +1,19 @@
 export default function Menu() {
   return (
     <>
-      <div className="container mx-auto items-center flex flex-col lg:space-y-16 space-y-6 justify-center h-screen -m-16 md:space-y-10">
-        <h1 className="font-black text-6xl text-center text-stone-900 lg:text-9xl md:text-9xl">
+      <div className="container mx-auto items-center flex flex-col lg:space-y-10 space-y-6 justify-center h-screen -m-16 md:space-y-10">
+        <h1 className="font-black text-6xl text-center text-stone-50 lg:text-9xl md:text-9xl">
           José
           <br />
           Eugênio
         </h1>
-        <p className="text-center font-bold lg:text-6xl md:text-5xl text-2xl text-stone-700">
+        <p className="text-center font-bold lg:text-6xl md:text-5xl text-xl text-stone-500">
           Desenvolvedor Front End
         </p>
         <div className="flex flex-row space-x-5">
           <a href="https://github.com/joseeugeniio" target="_blank">
             <svg
-              className="transition ease-in-out delay-75 hover:scale-110 duration-75s hover:text-stone-700"
+              className="transition ease-in-out delay-75 hover:scale-110 duration-75s hover:fill-stone-300 fill-stone-50"
               xmlns="http://www.w3.org/2000/svg"
               width="48"
               height="48"
@@ -24,7 +24,7 @@ export default function Menu() {
           </a>
           <a href="https://instagram.com/joseeuggenio" target="_blank">
             <svg
-              className="transition ease-in-out delay-75 hover:scale-110 duration-75s hover:text-stone-700"
+              className="transition ease-in-out delay-75 hover:scale-110 duration-75s hover:fill-stone-300 fill-stone-50"
               xmlns="http://www.w3.org/2000/svg"
               width="48"
               height="48"
@@ -35,7 +35,7 @@ export default function Menu() {
           </a>
           <a href="https://linkedin.com/in/joseeugeniio" target="_blank">
             <svg
-              className="transition ease-in-out delay-75 hover:scale-110 duration-75s hover:text-stone-700"
+              className="transition ease-in-out delay-75 hover:scale-110 duration-75s hover:fill-stone-300 fill-stone-50"
               xmlns="http://www.w3.org/2000/svg"
               width="48"
               height="48"
