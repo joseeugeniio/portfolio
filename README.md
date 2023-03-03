@@ -4,11 +4,11 @@
 
 ## Linguagens usadas no projoeto
 
-- Html
-- Css
+- HTML
+- CSS
 - JavaScript
 - TypeScript
-- TailWindCss
+- Tailwindcss
 
 ## Plataformas
 
@@ -23,8 +23,8 @@ O Projeto consiste em ter um funcionamento agradável para o usuário, sendo ass
 
 ## Como iniciar o projeto ?
 
-- Instale o <a href="https://nodejs.org/en/" target="_blank">NodeJS</a> <br/>
-- Instale o <a href="https://git-scm.com/" target="_blank">Git</a>
+- Instale o <a href="https://nodejs.org/en/" target='_blank'>NodeJS</a> <br/>
+- Instale o <a href="https://git-scm.com/" target='_blank'>Git</a>
 
 ```bash
 
