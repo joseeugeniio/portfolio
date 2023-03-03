@@ -4,11 +4,11 @@
 
 ## Linguagens usadas no projoeto
 
-- Html
-- Css
+- HTML
+- CSS
 - JavaScript
 - TypeScript
-- TailWindCss
+- Tailwindcss
 
 ## Plataformas
 
