@@ -1,7 +1,7 @@
 export default function Menu() {
   return (
     <>
-      <div className="container mx-auto items-center flex flex-col lg:space-y-10 space-y-6 justify-center h-screen -m-16 md:space-y-10">
+      <div className="container mx-auto items-center flex flex-col lg:space-y-10 space-y-6 justify-center h-screen md:space-y-10">
         <h1 className="font-black text-6xl text-center text-stone-50 lg:text-9xl md:text-9xl">
           José
           <br />
