@@ -1,6 +1,7 @@
 <h2 align="center"> Portfólio v0.1<br/> <a href="https://joseeugenio.com" target="_blank">joseeugenio.com</a></h2><br/>
 
-<img src="https://github.com/joseeugeniio/portfolio/blob/main/design/_design/WEB%20-%20DARK%20THEME%20(HOME).png" alt="Web Dark Theme"/>
+<img src="https://github.com/joseeugeniio/portfolio/blob/main/" alt="Web Dark Theme"/>
+![Web Dark Theme](/design/_design/WEB%20-%20DARK%20THEME%20(HOME).png)
 
 ## Linguagens usadas no projoeto
 
