@@ -26,6 +26,7 @@ O Projeto consiste em ter um funcionamento agradável para o usuário, sendo ass
 
 - Instale o <a href="https://nodejs.org/en/" target="_blank">NodeJS</a> <br/>
 - Instale o <a href="https://git-scm.com/" target="_blank">Git</a>
+- <a href="https://git-scm.com great page">link</a>
 
 ```bash
 
