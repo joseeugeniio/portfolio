@@ -1,7 +1,6 @@
 <h2 align="center"> Portfólio v0.1<br/> <a href="https://joseeugenio.com" target="_blank">joseeugenio.com</a></h2><br/>
 
-<img src="https://github.com/joseeugeniio/portfolio/blob/main/" alt="Web Dark Theme"/>
-![Web Dark Theme](/design/_design/WEB%20-%20DARK%20THEME%20(HOME).png)
+<img src="https://github.com/joseeugeniio/portfolio/blob/main/design/_design/WEB%20-%20DARK%20THEME%20(HOME).png" alt="Web Dark Theme"/>
 
 ## Linguagens usadas no projoeto
 
@@ -26,7 +25,6 @@ O Projeto consiste em ter um funcionamento agradável para o usuário, sendo ass
 
 - Instale o <a href="https://nodejs.org/en/" target="_blank">NodeJS</a> <br/>
 - Instale o <a href="https://git-scm.com/" target="_blank">Git</a>
-- <a href="https://git-scm.com great page">link</a>
 
 ```bash
 
