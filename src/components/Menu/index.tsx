@@ -13,7 +13,7 @@ export default function Menu() {
         <div className="flex flex-row space-x-5">
           <a href="https://github.com/joseeugeniio" target="_blank">
             <svg
-              className="transition ease-in-out delay-75 hover:scale-110 duration-75s"
+              className="transition ease-in-out delay-75 hover:scale-110 duration-75s hover:text-stone-700"
               xmlns="http://www.w3.org/2000/svg"
               width="48"
               height="48"
@@ -24,7 +24,7 @@ export default function Menu() {
           </a>
           <a href="https://instagram.com/joseeuggenio" target="_blank">
             <svg
-              className="transition ease-in-out delay-75 hover:scale-110 duration-75s"
+              className="transition ease-in-out delay-75 hover:scale-110 duration-75s hover:text-stone-700"
               xmlns="http://www.w3.org/2000/svg"
               width="48"
               height="48"
@@ -35,7 +35,7 @@ export default function Menu() {
           </a>
           <a href="https://linkedin.com/in/joseeugeniio" target="_blank">
             <svg
-              className="transition ease-in-out delay-75 hover:scale-110 duration-75s"
+              className="transition ease-in-out delay-75 hover:scale-110 duration-75s hover:text-stone-700"
               xmlns="http://www.w3.org/2000/svg"
               width="48"
               height="48"
