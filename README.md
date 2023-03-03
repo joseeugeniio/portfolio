@@ -2,7 +2,7 @@
 
 <img src="https://github.com/joseeugeniio/portfolio/blob/main/design/_design/WEB%20-%20DARK%20THEME%20(HOME).png" alt="Web Dark Theme"/>
 
-## Linguagens usadas no projoeto
+## Linguagens usadas no projeto
 
 - HTML
 - CSS
@@ -55,7 +55,7 @@ yarn dev
 pnpm dev
 
 ```
-O Projeto abrirá no seu localhost sendo as portas <code>127.0.0.0:3000</code> ou <code>localhost:3000</code>
+O Projeto abrirá no seu localhost nas portas <code>127.0.0.0:3000</code> ou <code>localhost:3000</code>
 
 ## Licença
 
