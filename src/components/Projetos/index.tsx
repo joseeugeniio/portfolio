@@ -1,32 +1,33 @@
 import Image from "next/image";
 import React from "react";
 import { FaGithub } from "react-icons/fa";
+import css from '@/components/Projetos/projetos.module.css'
 
 const Projetos = () => {
   const projetos = [
     {
       title: "Em Breve",
-      description: "Descrição do Projeto",
+      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       image: "/image.png",
       align: "right",
     },
     {
       title: "Em Breve",
-      description: "Descrição do Projeto",
+      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       image: "/image.png",
       align: "left",
     },
     {
       title: "Em Breve",
-      description: "Descrição do Projeto",
+      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       image: "/image.png",
       align: "right",
     },
   ];
 
   return (
-    <section className="">
-      <div className="container mx-auto px-10 lg:px-56 space-y-32 pb-40">
+    <section className={`${css.container}`}>
+      <div className="container mx-auto px-10 lg:px-56 md:space-y-12 lg:space-y-32 space-y-32 py-20">
         <h1 className="text-stone-50 font-black text-5xl text-center md:text-8xl">
           Meus Melhores Projetos
         </h1>
@@ -37,7 +38,7 @@ const Projetos = () => {
               projetos.align === "right" ? "md:flex-row-reverse" : "md:flex-row"
             } items-left lg:items-center md:items-stretch md:justify-between md:py-12`}
           >
-            <div className="md:w-1/2 lg:w-2/3 md:px-6 mb-6 md:mb-0">
+            <div className="md:w-1/2 lg:w-2/3 mb-6 md:mb-0">
               <Image
                 alt={projetos.title}
                 src={projetos.image}
@@ -46,13 +47,13 @@ const Projetos = () => {
                 className="rounded-xl"
               />
             </div>
-            <div className="md:w-1/2 lg:w-2/3 md:px-6">
-              <h2 className="text-5xl md:5xl mb-4 text-stone-50 font-bold">
+            <div className="md:w-1/2 lg:w-3/3 md:px-20">
+              <h2 className="text-4xl md:5xl mb-4 text-stone-50 font-bold">
                 {projetos.title}
               </h2>
-              <p className="mb-8 text-slate-50 text-justify">{projetos.description}</p>
+              <p className="mb-8 text-slate-50 text-left">{projetos.description}</p>
 
-              <button className="bg-stone-50 text-stone-900 hover:bg-stone-200 font-bold py-2 px-5 rounded duration-75">
+              <button className={`text-stone-50 font-bold py-3 px-5 rounded duration-75 ${css.btn}`}>
                 <a href="#" className="flex flex-row items-center gap-2">
                   Repositório <FaGithub className="w-5 h-5"/>
                 </a>

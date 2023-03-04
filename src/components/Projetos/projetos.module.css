@@ -1,0 +1,30 @@
+.container {
+  background: rgb(12, 7, 20);
+  background: linear-gradient(
+    343deg,
+    rgba(12, 7, 20, 1) 0%,
+    rgba(12, 7, 20, 1) 35%,
+    rgba(9, 6, 15, 1) 100%
+  );
+}
+
+.btn {
+  background: rgb(95, 58, 154);
+  background: linear-gradient(
+    100deg,
+    rgba(95, 58, 154, 1) 0%,
+    rgba(105, 49, 217, 1) 35%,
+    rgba(26, 4, 133, 1) 100%
+  );
+}
+
+.btn:hover {
+  background: rgb(95, 58, 154);
+  background: linear-gradient(
+    142deg,
+    rgba(95, 58, 154, 1) 0%,
+    rgba(105, 49, 217, 1) 35%,
+    rgba(26, 4, 133, 1) 100%
+  );
+  transition-delay: 6s;
+}
