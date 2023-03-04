@@ -5,7 +5,7 @@ export default function Sobre() {
     <>
     <section className={css.container}>
       <div className={`container mx-auto items-center text-center py-20 space-y-12`}>
-        <h1 className="text-5xl md:text-8xl text-stone-50 font-black">Sobre</h1>
+        <h1 className="text-5xl md:text-6xl text-stone-50 font-bold">Sobre</h1>
         <p className="text-stone-50 text-justify px-10 md:px-24 lg:px-80">
           Olá! Sou o José Eugênio, um desenvolvedor front end que está se
           aventurando no mundo do back end para me tornar um profissional

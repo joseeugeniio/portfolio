@@ -27,9 +27,9 @@ const Projetos = () => {
 
   return (
     <section className={`${css.container}`}>
-      <div className="container mx-auto px-10 lg:px-56 md:space-y-12 lg:space-y-32 space-y-32 py-20">
-        <h1 className="text-stone-50 font-black text-5xl text-center md:text-8xl">
-          Meus Melhores Projetos
+      <div className="container mx-auto px-10 lg:px-56 md:space-y-12 lg:space-y-16 space-y-16 py-20">
+        <h1 className="text-stone-50 text-5xl font-bold text-center md:text-6xl">
+          Meus Melhores<br/> Projetos
         </h1>
         {projetos.map((projetos, index) => (
           <div
@@ -47,11 +47,11 @@ const Projetos = () => {
                 className="rounded-xl"
               />
             </div>
-            <div className="md:w-1/2 lg:w-3/3 md:px-20">
-              <h2 className="text-4xl md:5xl mb-4 text-stone-50 font-bold">
+            <div className="md:w-1/2 lg:w-2/3 md:px-10">
+              <h2 className="text-4xl md:5xl mb-4 text-stone-50 font-semibold">
                 {projetos.title}
               </h2>
-              <p className="mb-8 text-slate-50 text-left">{projetos.description}</p>
+              <p className="mb-8 text-slate-50 text-justify">{projetos.description}</p>
 
               <button className={`text-stone-50 font-bold py-3 px-5 rounded duration-75 ${css.btn}`}>
                 <a href="#" className="flex flex-row items-center gap-2">

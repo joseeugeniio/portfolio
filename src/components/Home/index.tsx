@@ -29,9 +29,6 @@ export default function Home() {
             </a>
           </div>
         </div>
-        <div className="hidden">
-          <Image alt="" src={"/undraw-home.svg"} width={200} height={120} />
-        </div>
         <div>
           <BiChevronDown className="fill-stone-50 w-20 h-20 animate-bounce" />
         </div>

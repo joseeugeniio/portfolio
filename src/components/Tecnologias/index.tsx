@@ -8,7 +8,7 @@ const Tecnologias = () => {
   return (
     <section className={`${css.container}`}>
       <div className="container mx-auto py-20 lg:px-56">
-        <h2 className="lg:text-8xl text-5xl px-5 text-stone-50 text-center font-bold mb-10">Tecnologias que Utilizo</h2>
+        <h2 className="lg:text-6xl text-5xl px-5 text-stone-50 text-center font-semibold mb-10">Tecnologias<br/> que Utilizo</h2>
         <div className="flex flex-wrap justify-center">
           <div className="text-stone-500 px-6 py-3 flex items-center hover:bg-slate-900 hover:rounded-xl hover:cursor-pointer">
             <FaNode className="text-5xl text-green-500 mr-3 " />

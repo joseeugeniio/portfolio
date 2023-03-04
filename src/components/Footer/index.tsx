@@ -9,7 +9,7 @@ export default function Footer() {
           className={`container mx-auto text-center flex flex-col justify-between py-8 px-4 items-center`}
         >
           <p className="text-stone-300">© 2023 José Eugênio</p>
-          <span className="text-stone-300">
+          <span className="text-stone-300 mb-2">
             Última Atualização: 03-03-2023 22:26
           </span>
           <div className="flex flex-row space-x-5">

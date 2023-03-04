@@ -1,9 +1,10 @@
-.container {
-  background: rgb(11, 5, 42);
+/*.container {
+  background: rgb(6, 3, 10);
   background: linear-gradient(
-    343deg,
-    rgba(11, 5, 42, 1) 0%,
-    rgba(12, 7, 20, 1) 35%,
-    rgba(12, 7, 20, 1) 100%
+    338deg,
+    rgba(6, 3, 10, 1) 0%,
+    rgba(0, 0, 0, 1) 35%,
+    rgba(6, 3, 10, 1) 100%
   );
 }
+*/
