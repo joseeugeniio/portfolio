@@ -1,7 +1,7 @@
 export default function Sobre() {
   return (
     <>
-      <div className="container mx-auto items-center text-center space-y-10 pb-40">
+      <div className="container mx-auto items-center text-center space-y-12 pb-40">
         <h1 className="text-5xl md:text-8xl text-stone-50 font-black">Sobre</h1>
         <p className="text-stone-50 text-justify px-10 md:px-24 lg:px-80">
           Olá! Sou o José Eugênio, um desenvolvedor front end que está se
