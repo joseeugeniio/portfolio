@@ -1,13 +1,13 @@
 import Head from 'next/head'
 import { Inter } from 'next/font/google'
-import Menu from '@/components/Menu'
+import Home from '@/components/Home'
 import Sobre from '@/components/Sobre'
 import Projetos from '@/components/Projetos'
 import Footer from '@/components/Footer'
 
 const inter = Inter({ subsets: ['latin'] })
 
-export default function Home() {
+export default function Index() {
   return (
     <>
       <Head>
@@ -16,7 +16,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Menu/>
+      <Home/>
       <Sobre/>
       <Projetos/>
       <Footer/>

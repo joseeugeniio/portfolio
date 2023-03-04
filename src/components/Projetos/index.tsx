@@ -25,7 +25,7 @@ const Projetos = () => {
 
   return (
     <section className="">
-      <div className="container mx-auto px-10 lg:px-56 space-y-16 pb-64">
+      <div className="container mx-auto px-10 lg:px-56 space-y-6 pb-40">
         <h1 className='text-stone-50 font-black text-5xl text-center md:text-8xl'>Meus Melhores Projetos</h1>
         {projetos.map((projetos, index) => (
           <div

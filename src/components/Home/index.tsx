@@ -1,7 +1,7 @@
-export default function Menu() {
+export default function Home() {
   return (
     <>
-      <div className="container mx-auto items-center flex flex-col lg:space-y-10 space-y-6 justify-center h-screen md:space-y-10">
+      <div className="container mx-auto items-center flex flex-col lg:space-y-10 py-40 space-y-6 md:space-y-10">
         <h1 className="font-black text-7xl text-center text-stone-50 lg:text-9xl md:text-9xl">
           José
           <br />
@@ -13,7 +13,7 @@ export default function Menu() {
         <div className="flex flex-row space-x-5">
           <a href="https://github.com/joseeugeniio" target="_blank">
             <svg
-              className="transition ease-in-out delay-75 hover:scale-105 duration-75s hover:fill-stone-300 fill-stone-50"
+              className="transition ease-in-out delay-75 hover:scale-105 duration-75s hover:fill-stone-300 fill-stone-500"
               xmlns="http://www.w3.org/2000/svg"
               width="56"
               height="56"
@@ -24,7 +24,7 @@ export default function Menu() {
           </a>
           <a href="https://instagram.com/joseeuggenio" target="_blank">
             <svg
-              className="transition ease-in-out delay-75 hover:scale-105 duration-75s hover:fill-stone-300 fill-stone-50"
+              className="transition ease-in-out delay-75 hover:scale-105 duration-75s hover:fill-stone-300 fill-stone-500"
               xmlns="http://www.w3.org/2000/svg"
               width="56"
               height="56"
@@ -35,7 +35,7 @@ export default function Menu() {
           </a>
           <a href="https://linkedin.com/in/joseeugeniio" target="_blank">
             <svg
-              className="transition ease-in-out delay-75 hover:scale-105 duration-75s hover:fill-stone-300 fill-stone-50"
+              className="transition ease-in-out delay-75 hover:scale-105 duration-75s hover:fill-stone-300 fill-stone-500"
               xmlns="http://www.w3.org/2000/svg"
               width="56"
               height="56"
