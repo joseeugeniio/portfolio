@@ -5,22 +5,21 @@ import { FaGithub } from "react-icons/fa";
 const Projetos = () => {
   const projetos = [
     {
-      title: "Ping Pong",
-      description:
-        "Este Projeto eu fiz assistindo as aulas do curso Dev Samurai, um projeto muito bom para aprender Canvas JavaScript. Eu aprendi a manipular animações, criar cenários básicos e algumas outras funções interessantes. O curso é pago mas é completíssimo, ele vai desde o básico do Front End até o avançado do Back End.",
-      image: "/image-test.jpg",
+      title: "Em Breve",
+      description: "Descrição do Projeto",
+      image: "/image.png",
       align: "right",
     },
     {
-      title: "Projeto B",
-      description: "Este Projeto eu fiz assistindo as aulas do curso Dev Samurai, um projeto muito bom para aprender Canvas JavaScript. Eu aprendi a manipular animações, criar cenários básicos e algumas outras funções interessantes. O curso é pago mas é completíssimo, ele vai desde o básico do Front End até o avançado do Back End.",
-      image: "/image-test.jpg",
+      title: "Em Breve",
+      description: "Descrição do Projeto",
+      image: "/image.png",
       align: "left",
     },
     {
-      title: "Projeto C",
-      description: "Este Projeto eu fiz assistindo as aulas do curso Dev Samurai, um projeto muito bom para aprender Canvas JavaScript. Eu aprendi a manipular animações, criar cenários básicos e algumas outras funções interessantes. O curso é pago mas é completíssimo, ele vai desde o básico do Front End até o avançado do Back End.",
-      image: "/image-test.jpg",
+      title: "Em Breve",
+      description: "Descrição do Projeto",
+      image: "/image.png",
       align: "right",
     },
   ];
